@@ -18,4 +18,7 @@ This helps me and others understand the code, debug any problems that may arise,
 Purpose of Git
 Git helps to track changes, will save process, and allows you to go to older versions of your code and fix mistakes
 
+Is Git important?
+Yes, Git is important because it is good for teamwork, and for protecting your code.
 
+Challenges 
