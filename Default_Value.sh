@@ -1,5 +1,9 @@
 #!/bin/bash
 
-echo "Hello, ${Name: -Guest}"
+default_num=1
 
-##working progress dont really understand
+read -p "Pick a number from (1-10)" answer
+
+echo "answer"; then 
+	echo "Going back to default number"
+	read default_num
