@@ -9,6 +9,15 @@ echo "answer"; then
 	read default_num
 #!/bin/bash
 
-name=$1:-"Guest"
+var=""
 
-echo "hello, $name"
+
+#read -p "enter name: " user_input
+
+
+check_name(){
+
+	echo "${1:-"Computer"}"
+}
+
+check_name $user_input
