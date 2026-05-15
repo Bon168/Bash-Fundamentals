@@ -21,4 +21,3 @@ Git helps to track changes, will save process, and allows you to go to older ver
 Is Git important?
 Yes, Git is important because it is good for teamwork, and for protecting your code.
 
-Challenges 
