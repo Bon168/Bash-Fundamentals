@@ -8,3 +8,4 @@ Story() {
 
 }
 
+#example of a function
