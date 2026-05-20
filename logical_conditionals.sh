@@ -7,4 +7,4 @@ if [ $num -gt 5 ] && [ $num -lt 10 ]; then
 fi
 
 #logical conditionals are mainly used with if statements
-#
+# A base logical conditional needs a condition closed with square brackets
