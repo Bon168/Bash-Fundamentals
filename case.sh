@@ -8,3 +8,5 @@ case $letter in
 a) echo "you chose A";;
 b) echo "you chose B";;
 c) echo "another letter";;
+
+#example of a case statement
