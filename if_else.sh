@@ -9,3 +9,6 @@ elif [ $num -eq 5 ]; then
 else
 	echo "small"
 fi
+
+#this is use a example of how you can use a else statement
+#and we also used -gt and -eq which is greater than and equal to 5
