@@ -9,3 +9,4 @@ fi
 #logical conditionals are mainly used with if statements
 # A base logical conditional needs a condition closed with square brackets
 #There are alot of common operators that can be used
+#This one is -gt, -lt This is just greater than, and less than
