@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#example of quotations
 word="world"
 
 echo "Hello $word"
