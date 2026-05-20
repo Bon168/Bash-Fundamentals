@@ -9,4 +9,4 @@ elif < 12 then
 
 
 	#This is a example of a conditional
-	
+	#Using < > if greater than 12 then correct if lower than 12 to low
