@@ -12,3 +12,7 @@ Story() {
 # Define function, then call it
 
 #A common mistake: would be forgeting to call the function
+
+
+#Troubleshooting:
+#Always make sure the function name is typed correctly
