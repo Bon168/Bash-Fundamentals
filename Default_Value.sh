@@ -27,3 +27,8 @@ check_name $user_input
 #How it works:
 #It will read though the thing, and if it is empty, then it will use the default value of computer
 
+#common mistakes:
+# Forgeting to use the colon
+
+#Troubleshooting:
+# Check syntax ${variable:-default}
