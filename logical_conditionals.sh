@@ -14,3 +14,6 @@ fi
 
 #Common mistakes:
 #Not using the correct brackets
+
+#troubleshooting
+#Make sure all signs and brackets are correct
