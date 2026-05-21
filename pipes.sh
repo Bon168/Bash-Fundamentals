@@ -14,4 +14,4 @@ Ls -l | grep ".txt"
 #Wrong order of the commands
 
 #Troubleshooting:
-#Test command separately at first
+#Test command separately at first	

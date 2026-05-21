@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bash/bin
 
 
  Bash Fundamentals Repository

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bash/bin
 #example of quotations
 word="world"
 

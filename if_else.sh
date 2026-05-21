@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/bash/bin
 num=5 
 
 if [ $num -gt 10 ]; then 

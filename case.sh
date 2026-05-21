@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bash/bin
 
 echo "enter a letter, your options are only A B and C"
 

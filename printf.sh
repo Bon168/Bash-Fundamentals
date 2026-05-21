@@ -18,5 +18,5 @@ printf "Number: %d\n" 10
 #%x: Converts an integer to lowercase hexadecimal.
 #%%: Prints a literal percent sign. 	
 
-#Troubleshooting
+#Troubleshooting	
 # make sure you are using the correct specifier one

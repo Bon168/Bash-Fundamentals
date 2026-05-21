@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/bash/bin
 default_num=1
 
 read -p "Pick a number from (1-10)" answer

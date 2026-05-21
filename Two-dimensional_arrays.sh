@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bash/bin
 
 #most common way of using a 2D array is to use an asssociative array 
 #where the key is a combination of the row and column shows

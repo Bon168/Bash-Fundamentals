@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bash/bin
 my_array=("cat" "dog" "lion" "coin")
 
 echo "my_array"

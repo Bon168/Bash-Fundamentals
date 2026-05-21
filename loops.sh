@@ -9,4 +9,4 @@ done
 # Infinite loops, when it just no stop repeats
 
 #Troubleshooting:
-#Make sure the variable changes inside the loop
+#Make sure the variable changes inside the loops

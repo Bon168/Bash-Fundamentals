@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/bash/bin
 num=21
 
 if [ $num -gt 5 ]; then

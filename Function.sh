@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bash/bin
 Goodtomeetyou() {
 	echo "nice to meet you my name is Chinae"
 }
