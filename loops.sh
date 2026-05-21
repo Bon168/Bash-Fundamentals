@@ -4,3 +4,7 @@ done
 
 #while loop
 #Will keep running as long as the condition is true
+
+#Common mistake
+# Infinite loops, when it just no stop repeats
+
