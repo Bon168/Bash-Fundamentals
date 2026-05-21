@@ -21,3 +21,9 @@ check_name(){
 }
 
 check_name $user_input
+
+#Used when a variable may be empty
+
+#How it works:
+#It will read though the thing, and if it is empty, then it will use the default value of computer
+
