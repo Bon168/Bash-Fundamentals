@@ -9,5 +9,6 @@ echo "my_array"
 #Common mistakes:
 #Not putting "" on your code
 
-#Troubles
+#Troubleshooting
+#Make sure that there is a = sign
 #Very simple array example
