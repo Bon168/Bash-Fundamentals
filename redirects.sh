@@ -12,4 +12,4 @@ echo "Earth" >> file.txt
 # Over writes the code
 
 # Trouble shooting
-# Use command 2> error.log?
+# Use command 2> error.log?	
