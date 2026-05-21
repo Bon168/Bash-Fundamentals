@@ -8,4 +8,5 @@ Story() {
 
 }
 
-#example of a function
+# How it works:
+# Define function, then call it
