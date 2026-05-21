@@ -11,9 +11,12 @@ printf "Number: %d\n" 10
 #f treats the arguments as a floating-point number
 
 #Common mistakes:
-#Using the wrong specifiers, make sure you are using the correct one
+#Using the wrong specifiers
 #%s: Treats the argument as a string.
 #%d: Treats the argument as a signed decimal integer.
 #%f: Treats the argument as a floating-point number.
 #%x: Converts an integer to lowercase hexadecimal.
-#%%: Prints a literal percent sign. 
+#%%: Prints a literal percent sign. 	
+
+#Troubleshooting
+# make sure you are using the correct specifier one
